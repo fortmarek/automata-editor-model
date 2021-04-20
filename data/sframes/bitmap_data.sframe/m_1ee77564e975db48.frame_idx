@@ -1,0 +1,11 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=2
+nrows=600
+[column_names]
+0000=drawing
+0001=label
+[column_files]
+0000=m_1ee77564e975db48.sidx:0
+0001=m_1ee77564e975db48.sidx:1
