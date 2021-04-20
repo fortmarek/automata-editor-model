@@ -2,12 +2,12 @@
 version=0
 num_segments=0
 num_columns=3
-nrows=5
+nrows=4
 [column_names]
 0000=class
 0001=predicted_class
 0002=count
 [column_files]
-0000=m_893e9f0c8e671c5e.sidx:0
-0001=m_893e9f0c8e671c5e.sidx:1
-0002=m_893e9f0c8e671c5e.sidx:2
+0000=m_48caf8e9fd15490d.sidx:0
+0001=m_48caf8e9fd15490d.sidx:1
+0002=m_48caf8e9fd15490d.sidx:2
