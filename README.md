@@ -1,3 +1,3 @@
 # Automata Editor Model
 
-This repository is based on the drawing classifier from [here](https://apple.github.io/turicreate/docs/userguide/drawing_classifier/). Its main components are located in `data` folder where all the images created with [MNIST Maker app](https://github.com/fortmarek/MNIST-Maker) are present. Apart from that there is a Jupyter notebook that you can explore via running `jupyter notebook` command.
+This repository is based on the drawing classifier from [here](https://apple.github.io/turicreate/docs/userguide/drawing_classifier/). Its main components are located in `data` folder where all the images created with [MNIST Maker app](https://github.com/fortmarek/MNIST-Maker) are present. Apart from that there is a Jupyter notebook that you can explore via running `jupyter notebook` command. The model is used in [Automata Editor app](https://github.com/fortmarek/automata-editor).
